@@ -17,7 +17,10 @@ Tie::Hash::Constant - make a hash return a constant for all its members
 
 =head1 DESCRIPTION
 
+Tie::Hash::Constant allows you to define a constant to be returned as
+all values contained within a hash.
 
+It has marginal use as a debugging tool.
 
 =cut
 
